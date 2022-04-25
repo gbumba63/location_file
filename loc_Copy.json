@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"OBJECTID":1,"NAME":"New Columbia","SHAPE_Length":83978.56841218912,"SHAPE_Area":171996035.5259608},"geometry":{"type":"Polygon","coordinates":[[]]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"OBJECTID":1,"NAME":"New Columbia","SHAPE_Length":83978.56841218912,"SHAPE_Area":171996035.5259608},"geometry":{"type":"Polygon","coordinates":[[[-147, 2], [-150, 70], [-20, 68], [-31, 5], [-147, 2]] ]]}}]}
